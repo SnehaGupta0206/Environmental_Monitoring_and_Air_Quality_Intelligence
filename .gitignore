@@ -1,0 +1,4 @@
+data/raw/station_hour.csv
+venv/
+__pycache__/
+*.pyc
