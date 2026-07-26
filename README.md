@@ -119,7 +119,6 @@ Feature importance showed **PM2.5 and CO together account for ~87%** of the mode
 - **Visualization:** Matplotlib, Seaborn, Plotly, Folium, GeoPandas
 - **Forecasting:** Statsmodels (Exponential Smoothing, ARIMA), Prophet
 - **Machine Learning:** Scikit-learn (Random Forest, Gradient Boosting)
-- **Dashboard:** Flask
 - **BI:** Power BI
 
 ---
