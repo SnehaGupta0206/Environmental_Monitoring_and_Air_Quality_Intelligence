@@ -67,7 +67,9 @@ Air-Quality-Analytics/
 │   ├── 04_Forecasting.ipynb         # Time series forecasting (Moving Avg, ETS, ARIMA, Prophet)
 │   └── 05_ML_Model.ipynb            # Random Forest / Gradient Boosting AQI prediction
 │
-├── dashboard/                   # Flask/Streamlit app + saved model files
+├── dashboard/                        # Flask/Streamlit app + saved model files
+|   ├── City_Air_Quality_Dashboard.pbix
+│   └── Executive_Air_Quality_Dashboard.pbix              
 │   ├── model.pkl
 │   └── model_features.pkl
 │
