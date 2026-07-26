@@ -47,7 +47,7 @@ The dataset contains daily and hourly air quality readings from monitoring stati
 | **Member 2** | Data Engineer | Data loading, cleaning, missing values, duplicates, outliers, feature engineering |
 | **Member 3** | Data Analyst | Exploratory data analysis, correlation, AQI distribution, seasonal analysis, business insights |
 | **Member 4** | ML Engineer | Time series forecasting (Moving Average, Exponential Smoothing, ARIMA, Prophet), ML models (Random Forest, Gradient Boosting), model evaluation |
-| **Member 5** | BI & Visualization | Power BI dashboard, Folium maps, GeoPandas, executive presentation |
+| **Member 5** | Power BI & Visualization | Power BI dashboard, Folium maps, GeoPandas, executive presentation |
 
 ---
 
